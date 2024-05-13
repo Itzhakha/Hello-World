@@ -1,7 +1,7 @@
 {
   "type": "flopack",
   "version": "1.5.0",
-  "created": "2024-05-13T04:57:40.393Z",
+  "created": "2024-05-13T05:25:44.658Z",
   "flags": {
     "auto-transform": true,
     "looseBooleans": true,
@@ -10,13 +10,13 @@
   },
   "data": {
     "flos": {
-      "30ded024-6e0e-43d3-a9c0-7361d35f9594": {
-        "id": "30ded024-6e0e-43d3-a9c0-7361d35f9594",
+      "2ff0c6af-ce40-4303-8502-988be777340a": {
+        "id": "2ff0c6af-ce40-4303-8502-988be777340a",
         "name": "Exported Notification Flow",
         "description": "",
         "data": {
           "id": null,
-          "uuid": "30ded024-6e0e-43d3-a9c0-7361d35f9594",
+          "uuid": "2ff0c6af-ce40-4303-8502-988be777340a",
           "display": {
             "preview": [
               {
@@ -1869,7 +1869,7 @@
           "log": true,
           "inheritLog": true,
           "scheduled": false,
-          "group": "1bea2d26-027f-46c1-bc9b-5d7ac8dc1e60",
+          "group": "dcfad80f-c698-4a44-afa0-f4ebce5307e9",
           "templateName": null,
           "connector_method_meta": {
             "inputs": {},
